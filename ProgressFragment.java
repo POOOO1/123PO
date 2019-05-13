@@ -7,8 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-package com.example.eugene.httpapp;
-
 
 import android.os.AsyncTask;
 import android.webkit.WebView;
